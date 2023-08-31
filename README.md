@@ -7,7 +7,7 @@ while simultaneously generating relevant images based on textual inputs. Leverag
 AI and sophisticated generative adversarial networks (GANs) to ensure coherent and 
 contextually-aware image synthesis.
 
-## Imahes of the APP
+## Images of the APP
 
 ![chatgpt1](https://github.com/TheSupreet/ChatGpt/assets/119513422/13eef672-997b-4ea7-b71a-581142e44adf)
 
