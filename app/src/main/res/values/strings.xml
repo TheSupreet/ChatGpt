@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ssquare Chat</string>
+
+    <string name="link" >
+         <a href="https://www.linkedin.com/in/supreet-kurdekar-82b3ba242"><b>Supreet</b></a>                       <a href="https://www.linkedin.com/in/shivananda-m-n-79024020a"><b>Shivu</b></a>
+</string>
+    <string name="n_n_t_t_tthis_s_square_chat_app_developed_by_2_students_of_university_bdt_college_of_engineering_check_their_profiles">\n\n\t\t\tThis S-square Chat app developed by 2 students of University BDT college of engineering. Check their profiles</string>
+    <string name="chat_with_bot">Chat with Bot</string>
+
+
+</resources>
